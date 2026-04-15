@@ -125,14 +125,6 @@ npm run build
 
 ---
 
-## ✅ Status
-
-✔ All functional requirements implemented
-✔ Bonus features included (reset, persistence)
-✔ Successfully deployed on Vercel
-
----
-
 ## 👤 Author
 
 **Akhil Reddy Modugu**
