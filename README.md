@@ -10,12 +10,6 @@ A simple React application that allows users to browse meals prepared by home ch
 
 ---
 
-## 📂 GitHub Repository
-
-🔗 https://github.com/AkhilReddyModugu/raiqa_assignment
-
----
-
 ## 🧠 Features
 
 ### ✅ Meal List
